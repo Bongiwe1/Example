@@ -1,0 +1,36 @@
+,Item,Quantity,Unit price (R),Selling price total (R)
+Chips (1),Simba,50,6,300
+(2),Lays,50,7,350
+(3),Dorittos,50,9,450
+(4),Nik naks,50,1,50
+(5),Popcorns,50,5,250
+Cooldrinks (1),Coke,25,10,250
+(2),Fanta,25,10,250
+(3),Sprite,25,10,250
+(4),Stoney,25,10,250
+(5),Pepsi,25,10,250
+Chocolates (1),Cadbury,30,9,270
+(2),Tex,30,6,180
+(3),Lunchbar,30,6,180
+(4),Crisp,40,6,240
+(5),PS,40,7,280
+Pies (1),Pepper Steak,25,15,375
+(2),Chicken,25,12,300
+(3),Egg and Ham,25,12,300
+(4),Vegetable,20,15,300
+(5),Mince,25,12,300
+Fruit (1),Pear,30,3,90
+(2),Apple,30,2,60
+(3),Orange,30,4,120
+(4),Peach,20,3,60
+(5),Kiwi,30,5,150
+Cupcakes (1),Vanilla,25,6,150
+(2),chocolate,25,8,200
+(3),Bran,25,7,175
+(4),Caramel,25,7,175
+(5),Blueberry,25,8,200
+Veggies (1),Spinach,20,10,210
+(2),Cabbage,20,10,210
+(3),Potato,30,30,900
+(4),Pumkin,20,15,300
+(5),Carrots,30,10,300
