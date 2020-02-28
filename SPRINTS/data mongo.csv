@@ -1,0 +1,46 @@
+_id,"Stock Item",Size,"Product type",Quantity,"Stock Unit Price","Stock price","Selling Unit Price","Stock Selling Price","Expected Profit","Shelf number"
+ObjectId("5e58c73f5b2de941386c4802"),Simba,"36 g",Chips,50,5,250,6,300,50,1
+ObjectId("5e58c73f5b2de941386c4803"),Lays,"36 g",Chips,50,6,300,7,350,50,1
+ObjectId("5e58c73f5b2de941386c4804"),Doritos,"36 g",Chips,50,8,400,9,450,50,1
+ObjectId("5e58c73f5b2de941386c4805"),Fritos,"36 g",Chips,50,2,100,3,150,50,1
+ObjectId("5e58c73f5b2de941386c4806"),"Popcorns ","36 g",Chips,50,4,200,5,250,50,8
+ObjectId("5e58c73f5b2de941386c4807"),Coke,"340 ml",Cooldrink,25,10,250,11,275,25,2
+ObjectId("5e58c73f5b2de941386c4808"),Fanta,"340 ml",Cooldrink,25,10,250,11,275,25,2
+ObjectId("5e58c73f5b2de941386c4809"),Sprite,"340 ml",Cooldrink,25,10,250,11,275,25,2
+ObjectId("5e58c73f5b2de941386c480a"),Stoney,"340 ml",Cooldrink,25,10,250,11,275,25,2
+ObjectId("5e58c73f5b2de941386c480b"),Pepsi,"340 ml",Cooldrink,25,10,250,11,275,25,2
+ObjectId("5e58c73f5b2de941386c480c"),Cadbury,"48 g",Chocolate,30,8,240,9,270,30,3
+ObjectId("5e58c73f5b2de941386c480d"),Tex,"48 g",Chocolate,30,5,150,6,180,30,3
+ObjectId("5e58c73f5b2de941386c480e"),"Lunch Bar","48 g",Chocolate,30,5,150,6,180,30,3
+ObjectId("5e58c73f5b2de941386c480f"),Crisp,"48 g",Chocolate,40,5,200,6,240,40,3
+ObjectId("5e58c73f5b2de941386c4810"),P.S,"48 g",Chocolate,40,6,240,7,280,40,3
+ObjectId("5e58c73f5b2de941386c4811"),"Pepper Steak","160 g",Pie,25,15,375,18,450,25,4
+ObjectId("5e58c73f5b2de941386c4812"),Chicken,"160 g",Pie,25,12,300,15,375,75,4
+ObjectId("5e58c73f5b2de941386c4813"),"Egg and Ham ","160 g",Pie,25,12,300,15,375,50,8
+ObjectId("5e58c73f5b2de941386c4814"),Vegetable,"160 g",Pie,20,15,300,18,360,60,4
+ObjectId("5e58c73f5b2de941386c4815"),Mince,"160 g",Pie,25,12,300,15,375,75,4
+ObjectId("5e58c73f5b2de941386c4816"),Vanilla,single,Cupcake,25,6,150,9,225,75,4
+ObjectId("5e58c73f5b2de941386c4817"),Bran,single,Cupcake,25,6,150,9,225,75,4
+ObjectId("5e58c73f5b2de941386c4818"),Caramel,single,Cupcake,25,6,150,9,225,75,4
+ObjectId("5e58c73f5b2de941386c4819"),Blueberry,single,Cupcake,25,7,175,10,250,75,4
+ObjectId("5e58c73f5b2de941386c481a"),"Thin mint",single,Cupcake,25,7,175,10,250,75,4
+ObjectId("5e58c73f5b2de941386c481b"),"Spinach ","1 pack",Veggies,20,7,140,10,200,50,8
+ObjectId("5e58c73f5b2de941386c481c"),Cabbage,"1 piece",Veggies,20,7,140,10,200,60,5
+ObjectId("5e58c73f5b2de941386c481d"),Potato,5kg,Veggies,30,20,600,25,750,50,5
+ObjectId("5e58c73f5b2de941386c481e"),Squash,1kg,Veggies,20,12,240,15,300,60,5
+ObjectId("5e58c73f5b2de941386c481f"),Carrots,1kg,Veggies,30,7,210,10,300,90,5
+ObjectId("5e58c73f5b2de941386c4820"),Apple,1kg,Fruits,30,7,210,12,360,50,6
+ObjectId("5e58c73f5b2de941386c4821"),Pear,1kg,Fruits,30,7,210,12,360,50,6
+ObjectId("5e58c73f5b2de941386c4822"),Orange,1kg,Fruits,30,8,240,15,450,210,6
+ObjectId("5e58c73f5b2de941386c4823"),Peach,1kg,Fruits,30,9,270,16,480,160,6
+ObjectId("5e58c73f5b2de941386c4824"),Kiwi,1kg,Fruits,20,10,200,18,360,125,6
+ObjectId("5e58c73f5b2de941386c4825"),Magnum,"250 ml","Ice lolly",25,12,300,17,425,50,7
+ObjectId("5e58c73f5b2de941386c4826"),"Mini Milk","250 ml","Ice lolly",25,10,250,12,300,50,7
+ObjectId("5e58c73f5b2de941386c4827"),Calippo,"250 ml","Ice lolly",25,11,275,13,325,50,7
+ObjectId("5e58c73f5b2de941386c4828"),Solero,"250 ml","Ice lolly",25,10,250,12,300,50,7
+ObjectId("5e58c73f5b2de941386c4829"),Zoom,"250 ml","Ice lolly",25,8,200,10,250,50,7
+ObjectId("5e58c73f5b2de941386c482a"),"Black pepper","7 g",Spices,50,2,100,3,150,50,8
+ObjectId("5e58c73f5b2de941386c482b"),"Spicy barbecue","7 g",Spices,50,2,100,3,150,50,8
+ObjectId("5e58c73f5b2de941386c482c"),"Rajah medium","7 g",Spices,50,2,100,3,150,50,8
+ObjectId("5e58c73f5b2de941386c482d"),Peri-Peri,"7 g",Spices,50,2,100,3,150,50,8
+ObjectId("5e58c73f5b2de941386c482e"),Benny,"7 g",Spices,50,2,100,3,150,50,8
